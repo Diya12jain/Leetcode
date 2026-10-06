@@ -25,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0504-base-7](https://github.com/Diya12jain/Leetcode/tree/master/0504-base-7) |
+| [1006-clumsy-factorial](https://github.com/Diya12jain/Leetcode/tree/master/1006-clumsy-factorial) |
 ## String
 |  |
 | ------- |
 | [0504-base-7](https://github.com/Diya12jain/Leetcode/tree/master/0504-base-7) |
+## Stack
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/Diya12jain/Leetcode/tree/master/1006-clumsy-factorial) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/Diya12jain/Leetcode/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
