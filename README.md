@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/Diya12jain/Leetcode/tree/master/0290-word-pattern) |
 | [0504-base-7](https://github.com/Diya12jain/Leetcode/tree/master/0504-base-7) |
 ## Stack
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Diya12jain/Leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
