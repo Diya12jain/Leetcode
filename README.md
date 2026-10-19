@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Diya12jain/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diya12jain/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Diya12jain/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/Diya12jain/Leetcode/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
