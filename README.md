@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diya12jain/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Diya12jain/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Diya12jain/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
