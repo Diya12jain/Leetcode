@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/Diya12jain/Leetcode/tree/master/0290-word-pattern) |
 | [0504-base-7](https://github.com/Diya12jain/Leetcode/tree/master/0504-base-7) |
 ## Stack
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Diya12jain/Leetcode/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
