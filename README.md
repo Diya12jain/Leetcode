@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Diya12jain/Leetcode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diya12jain/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Diya12jain/Leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/Diya12jain/Leetcode/tree/master/0290-word-pattern) |
 | [0504-base-7](https://github.com/Diya12jain/Leetcode/tree/master/0504-base-7) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Diya12jain/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Diya12jain/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
