@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Diya12jain/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Diya12jain/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Diya12jain/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Diya12jain/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Diya12jain/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Diya12jain/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Diya12jain/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
