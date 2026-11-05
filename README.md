@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Diya12jain/Leetcode/tree/master/1291-sequential-digits) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
