@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Diya12jain/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diya12jain/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Diya12jain/Leetcode/tree/master/0085-maximal-rectangle) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Diya12jain/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1006-clumsy-factorial](https://github.com/Diya12jain/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Simulation
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Diya12jain/Leetcode/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Diya12jain/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Diya12jain/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Diya12jain/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
