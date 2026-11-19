@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Diya12jain/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Diya12jain/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Diya12jain/Leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Diya12jain/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2765-longest-alternating-subarray](https://github.com/Diya12jain/Leetcode/tree/master/2765-longest-alternating-subarray) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Diya12jain/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1006-clumsy-factorial](https://github.com/Diya12jain/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Simulation
 |  |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Diya12jain/Leetcode/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Diya12jain/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
